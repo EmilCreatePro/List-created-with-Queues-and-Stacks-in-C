@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512910938 source:c:\users\mitu\desktop\college stuff\an 2\sda\labsda\lab8\aplicatia2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
